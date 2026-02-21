@@ -15,8 +15,8 @@ UC San Diego → AI R&D Consulting → ETH Zurich → ???
 </h3>
 
 | Find here | Interests | Other links |
-| :-- | :-- | :-- |
-| 🏄‍♂️ Fun with data science<br />📦 Making data science easier<br />🌱 Pursuit of technological education | 🎓 Data science education, research, and jobs<br />🤖 Machine learning, technology, and societal implications<br />✨ Cool things you're doing with data science! | 💼 <a href='https://linkedin.com/in/parkeraddison'>LinkedIn</a><br />🌐 <a href='https://parkeraddison.com'>Website</a> |
+| :-- | :-- | :-: |
+| 🏄‍♂️ Fun with data science<br />📦 Making data science easier<br />🌱 Pursuit of technological education | 🎓 Data science education, research, and jobs<br />🤖 Machine learning, technology, and societal implications<br />✨ Cool things you're doing with data science! | <a href='https://linkedin.com/in/parkeraddison'>LinkedIn</a><br /><a href='https://parkeraddison.com'>Web</a> |
 
 </div>
 
